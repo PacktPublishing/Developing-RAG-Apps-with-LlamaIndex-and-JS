@@ -11,7 +11,7 @@
   "description": "",
   "dependencies": {
     "dotenv": "^16.4.5",
-    "express": "^4.19.2",
+    "express": "^4.21.1",
     "llamaindex": "^0.5.14"
   },
   "devDependencies": {
